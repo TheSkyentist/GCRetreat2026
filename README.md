@@ -15,6 +15,8 @@ Python performance benchmarks comparing naive loops, NumPy, Numba JIT, and JAX/X
 
 [pixi](https://pixi.sh) — manages all environments and dependencies.
 
+> **Note:** Windows is not supported
+
 ## Running
 
 ```bash
